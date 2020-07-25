@@ -20,3 +20,7 @@ Model is predicting the weekly uber rides on the basis of input features
 
 # Project Flow Diagram
 ![casesLines](./Visuals/Slide1.PNG)
+
+# Output
+![casesLines](./Visuals/output1.PNG)
+![casesLines](./Visuals/output2.PNG)
