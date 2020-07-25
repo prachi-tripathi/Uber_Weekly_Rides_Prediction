@@ -18,4 +18,4 @@ Model is predicting the weekly uber rides on the basis of input features
 4. Average parking per month
 5. Number of weekly riders (Target Fetaure)
 
-# Apporach
+# Project Flow Diagram
