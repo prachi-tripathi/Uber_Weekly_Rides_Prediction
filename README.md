@@ -19,4 +19,4 @@ Model is predicting the weekly uber rides on the basis of input features
 5. Number of weekly riders (Target Fetaure)
 
 # Project Flow Diagram
-[casesLines](./Visuals/Slide1.PNG)
+[casesLines](.Uber_Weekly_Rides_Prediction/Visuals/Slide1.PNG)
