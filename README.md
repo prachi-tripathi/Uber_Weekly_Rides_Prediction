@@ -11,7 +11,7 @@
 
 
 # Objective
-Model is predicting the weekly uber rides on the basis of input features 
+Model is predicting the weekly number of uber rides on the basis of input features 
 1. Price per week
 2. Population
 3. Monthly income
