@@ -1,4 +1,4 @@
-# Uber_Weekly_Rides_Prediction
+# Uber Weekly Rides Prediction
 
 # Requirements
 1. pip install numpy
